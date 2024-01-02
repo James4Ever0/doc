@@ -27,6 +27,10 @@ doc estimate
 doc estimate --langs en,de,zh,fr,jp
 ```
 
+```bash
+doc browse
+```
+
 ## How it works
 
 Doc chops your code into segments and query documentation from LLM. After that, it groups docs two by two and reduce them recursively, till it gets the summary.
