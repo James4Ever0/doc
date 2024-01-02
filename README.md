@@ -28,7 +28,9 @@ doc estimate --langs en,de,zh,fr,jp
 ```
 
 ```bash
-doc browse
+doc serve
+doc serve --port 8002 --host 0.0.0.0
+doc serve --browse
 ```
 
 ## How it works
