@@ -17,7 +17,7 @@ Doc is a programming language agnostic documentation generation tool.
 ## Installation
 
 ```bash
-pip install doc3
+pip3 install doc3
 ```
 
 ## Usage
