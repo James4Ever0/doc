@@ -7,6 +7,7 @@ Doc is a programming language agnostic documentation generation tool.
 - Programming language agnostic
 - Multi-language documentation support
 - Customizable file exclusion pattern
+- Generation progress visualization
 - Processing time estimation
 - Caching docs by hashing
 - Easy installation and usage
