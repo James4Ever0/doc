@@ -8,6 +8,7 @@ Doc is a programming language agnostic documentation generation tool.
 - Multi-language documentation support
 - Customizable file exclusion pattern
 - Processing time estimation
+- Cacheing docs by hashing
 - Easy installation and usage
 - Intuitive and informative UI
 - Using OpenAI-compatible API
