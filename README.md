@@ -19,12 +19,12 @@ doc --list-langs
 
 ```bash
 doc generate
-doc generate --langs en,de,cn,fr,jp
+doc generate --langs en,de,zh,fr,jp
 ```
 
 ```bash
 doc estimate
-doc estimate --langs en,de,cn,fr,jp
+doc estimate --langs en,de,zh,fr,jp
 ```
 
 ## How it works
