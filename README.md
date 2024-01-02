@@ -14,6 +14,12 @@ Doc is a programming language agnostic documentation generation tool.
 - Intuitive and informative UI
 - Using OpenAI-compatible API
 
+## Installation
+
+```bash
+pip install doc
+```
+
 ## Usage
 
 ```bash
