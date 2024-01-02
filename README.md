@@ -3,8 +3,8 @@
 Doc is a programming language agnostic documentation generation tool.
 
 **Highlights**
-- Programming language agnostic
 - Fault tolerant
+- Programming language agnostic
 - Multi-language documentation support
 - Customizable file exclusion pattern
 - Processing time estimation
