@@ -1,4 +1,4 @@
-# Doc
+# doc
 
 Doc is a programming language agnostic documentation generation tool.
 
