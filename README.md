@@ -47,7 +47,7 @@ doc serve --browse
 
 Doc chops your code into segments and query documentation from LLM. After that, it groups docs two by two and reduce them recursively, till it gets the summary.
 
-Doc creates a beautiful static website for your codebase, meaning you can deploy to Github pages for free.
+Doc creates a beautiful static website for your codebase, which you can deploy to Github pages for free.
 
 ## .docignore
 
